@@ -1,0 +1,277 @@
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.csproj.AssemblyReference.cache
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.AssemblyInfoInputs.cache
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.AssemblyInfo.cs
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.deps.json
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.runtimeconfig.json
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.pdb
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Models.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Models.pdb
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskMana.388921B7.Up2Date
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\refint\TaskManager.DataAccess.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.pdb
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.genruntimeconfig.cache
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\ref\TaskManager.DataAccess.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Entities.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Entities.pdb
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.deps.json
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.runtimeconfig.json
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.dll
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.pdb
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Entities.dll
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Models.dll
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Entities.pdb
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Models.pdb
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.csproj.AssemblyReference.cache
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.AssemblyInfoInputs.cache
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.AssemblyInfo.cs
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.sourcelink.json
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskMana.388921B7.Up2Date
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.dll
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\refint\TaskManager.DataAccess.dll
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.pdb
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.genruntimeconfig.cache
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\ref\TaskManager.DataAccess.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.deps.json
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.runtimeconfig.json
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.pdb
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Entities.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Models.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Entities.pdb
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Models.pdb
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.csproj.AssemblyReference.cache
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.AssemblyInfoInputs.cache
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.AssemblyInfo.cs
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.sourcelink.json
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskMana.388921B7.Up2Date
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\refint\TaskManager.DataAccess.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.pdb
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.genruntimeconfig.cache
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\ref\TaskManager.DataAccess.dll
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.deps.json
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.runtimeconfig.json
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.dll
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.pdb
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Entities.dll
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Models.dll
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Entities.pdb
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Models.pdb
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.csproj.AssemblyReference.cache
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.AssemblyInfoInputs.cache
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.AssemblyInfo.cs
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.sourcelink.json
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskMana.388921B7.Up2Date
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.dll
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\refint\TaskManager.DataAccess.dll
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.pdb
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.genruntimeconfig.cache
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\ref\TaskManager.DataAccess.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.deps.json
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.runtimeconfig.json
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.pdb
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Entities.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Models.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Entities.pdb
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Models.pdb
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.csproj.AssemblyReference.cache
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.AssemblyInfoInputs.cache
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.AssemblyInfo.cs
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.sourcelink.json
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskMana.388921B7.Up2Date
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\refint\TaskManager.DataAccess.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.pdb
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.genruntimeconfig.cache
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\ref\TaskManager.DataAccess.dll
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.deps.json
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.runtimeconfig.json
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.dll
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.pdb
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Entities.dll
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Models.dll
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Entities.pdb
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Models.pdb
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.csproj.AssemblyReference.cache
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.AssemblyInfoInputs.cache
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.AssemblyInfo.cs
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.sourcelink.json
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskMana.388921B7.Up2Date
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.dll
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\refint\TaskManager.DataAccess.dll
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.pdb
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.genruntimeconfig.cache
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\ref\TaskManager.DataAccess.dll
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.deps.json
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.runtimeconfig.json
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.dll
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.pdb
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Entities.dll
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Models.dll
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Entities.pdb
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Models.pdb
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.csproj.AssemblyReference.cache
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.AssemblyInfoInputs.cache
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.AssemblyInfo.cs
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.csproj.CoreCompileInputs.cache
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.sourcelink.json
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskMana.388921B7.Up2Date
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.dll
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\refint\TaskManager.DataAccess.dll
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.pdb
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.genruntimeconfig.cache
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\ref\TaskManager.DataAccess.dll
+D:\TrialErrorAPI\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.deps.json
+D:\TrialErrorAPI\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.runtimeconfig.json
+D:\TrialErrorAPI\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.dll
+D:\TrialErrorAPI\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.pdb
+D:\TrialErrorAPI\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Entities.dll
+D:\TrialErrorAPI\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Models.dll
+D:\TrialErrorAPI\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Entities.pdb
+D:\TrialErrorAPI\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Models.pdb
+D:\TrialErrorAPI\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.csproj.AssemblyReference.cache
+D:\TrialErrorAPI\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrialErrorAPI\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.AssemblyInfoInputs.cache
+D:\TrialErrorAPI\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.AssemblyInfo.cs
+D:\TrialErrorAPI\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.csproj.CoreCompileInputs.cache
+D:\TrialErrorAPI\TaskManager.DataAccess\obj\Debug\net8.0\TaskMana.388921B7.Up2Date
+D:\TrialErrorAPI\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.dll
+D:\TrialErrorAPI\TaskManager.DataAccess\obj\Debug\net8.0\refint\TaskManager.DataAccess.dll
+D:\TrialErrorAPI\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.pdb
+D:\TrialErrorAPI\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.genruntimeconfig.cache
+D:\TrialErrorAPI\TaskManager.DataAccess\obj\Debug\net8.0\ref\TaskManager.DataAccess.dll
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.deps.json
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.runtimeconfig.json
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.dll
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.pdb
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Entities.dll
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Models.dll
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Entities.pdb
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Models.pdb
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.csproj.AssemblyReference.cache
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.AssemblyInfoInputs.cache
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.AssemblyInfo.cs
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.csproj.CoreCompileInputs.cache
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.sourcelink.json
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskMana.388921B7.Up2Date
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.dll
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\refint\TaskManager.DataAccess.dll
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.pdb
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.genruntimeconfig.cache
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\ref\TaskManager.DataAccess.dll
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.deps.json
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.runtimeconfig.json
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.dll
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.pdb
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Entities.dll
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Models.dll
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Entities.pdb
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Models.pdb
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.csproj.AssemblyReference.cache
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.AssemblyInfoInputs.cache
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.AssemblyInfo.cs
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.csproj.CoreCompileInputs.cache
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.sourcelink.json
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskMana.388921B7.Up2Date
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.dll
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\refint\TaskManager.DataAccess.dll
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.pdb
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.genruntimeconfig.cache
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\ref\TaskManager.DataAccess.dll
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.deps.json
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.runtimeconfig.json
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.dll
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.pdb
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Entities.dll
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Models.dll
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Entities.pdb
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Models.pdb
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.csproj.AssemblyReference.cache
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.AssemblyInfoInputs.cache
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.AssemblyInfo.cs
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskMana.388921B7.Up2Date
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.dll
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\refint\TaskManager.DataAccess.dll
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.pdb
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.genruntimeconfig.cache
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\ref\TaskManager.DataAccess.dll
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.deps.json
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.runtimeconfig.json
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.dll
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.pdb
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Entities.dll
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Models.dll
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Entities.pdb
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Models.pdb
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.csproj.AssemblyReference.cache
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.AssemblyInfoInputs.cache
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.AssemblyInfo.cs
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.csproj.CoreCompileInputs.cache
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.sourcelink.json
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskMana.388921B7.Up2Date
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.dll
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\refint\TaskManager.DataAccess.dll
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.pdb
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.genruntimeconfig.cache
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\ref\TaskManager.DataAccess.dll
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.deps.json
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.runtimeconfig.json
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.dll
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.pdb
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Entities.dll
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Models.dll
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Entities.pdb
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Models.pdb
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.csproj.AssemblyReference.cache
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.AssemblyInfoInputs.cache
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.AssemblyInfo.cs
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.csproj.CoreCompileInputs.cache
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.sourcelink.json
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskMana.388921B7.Up2Date
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.dll
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\refint\TaskManager.DataAccess.dll
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.pdb
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.genruntimeconfig.cache
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\ref\TaskManager.DataAccess.dll
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.deps.json
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.runtimeconfig.json
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.dll
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.pdb
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Entities.dll
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Models.dll
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Entities.pdb
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Models.pdb
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.csproj.AssemblyReference.cache
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.AssemblyInfoInputs.cache
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.AssemblyInfo.cs
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.csproj.CoreCompileInputs.cache
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.sourcelink.json
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskMana.388921B7.Up2Date
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.dll
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\refint\TaskManager.DataAccess.dll
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.pdb
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.genruntimeconfig.cache
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.DataAccess\obj\Debug\net8.0\ref\TaskManager.DataAccess.dll

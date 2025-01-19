@@ -1,0 +1,333 @@
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.csproj.AssemblyReference.cache
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.AssemblyInfoInputs.cache
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.AssemblyInfo.cs
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.csproj.CoreCompileInputs.cache
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.deps.json
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.runtimeconfig.json
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.pdb
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.DataAccess.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Entities.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Models.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.DataAccess.pdb
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Entities.pdb
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Models.pdb
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskMana.1B9E894A.Up2Date
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.Buisness\obj\Debug\net8.0\refint\TaskManager.Buisness.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.pdb
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.genruntimeconfig.cache
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.Buisness\obj\Debug\net8.0\ref\TaskManager.Buisness.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Common.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Common.pdb
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.deps.json
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.runtimeconfig.json
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.dll
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.pdb
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Common.dll
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.DataAccess.dll
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Entities.dll
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Models.dll
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Common.pdb
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.DataAccess.pdb
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Entities.pdb
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Models.pdb
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.csproj.AssemblyReference.cache
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.AssemblyInfoInputs.cache
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.AssemblyInfo.cs
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.csproj.CoreCompileInputs.cache
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.sourcelink.json
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskMana.1B9E894A.Up2Date
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.dll
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\refint\TaskManager.Buisness.dll
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.pdb
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.genruntimeconfig.cache
+C:\Users\SayleeDalu\Desktop\Sprint2\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\ref\TaskManager.Buisness.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.deps.json
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.runtimeconfig.json
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.pdb
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Common.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.DataAccess.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Entities.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Models.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Common.pdb
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.DataAccess.pdb
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Entities.pdb
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Models.pdb
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.csproj.AssemblyReference.cache
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.AssemblyInfoInputs.cache
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.AssemblyInfo.cs
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.csproj.CoreCompileInputs.cache
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.sourcelink.json
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskMana.1B9E894A.Up2Date
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\refint\TaskManager.Buisness.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.pdb
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.genruntimeconfig.cache
+C:\Users\VaishnaviRajuPhapagi\Desktop\Api-DO_S3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\ref\TaskManager.Buisness.dll
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.deps.json
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.runtimeconfig.json
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.dll
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.pdb
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Common.dll
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.DataAccess.dll
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Entities.dll
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Models.dll
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Common.pdb
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.DataAccess.pdb
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Entities.pdb
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Models.pdb
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.csproj.AssemblyReference.cache
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.AssemblyInfoInputs.cache
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.AssemblyInfo.cs
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.csproj.CoreCompileInputs.cache
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.sourcelink.json
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskMana.1B9E894A.Up2Date
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.dll
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\refint\TaskManager.Buisness.dll
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.pdb
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.genruntimeconfig.cache
+C:\Users\SayleeDalu\Desktop\Sprint3\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\ref\TaskManager.Buisness.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.deps.json
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.runtimeconfig.json
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.pdb
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Common.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.DataAccess.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Entities.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Models.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Common.pdb
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.DataAccess.pdb
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Entities.pdb
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Models.pdb
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.csproj.AssemblyReference.cache
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.AssemblyInfoInputs.cache
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.AssemblyInfo.cs
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.csproj.CoreCompileInputs.cache
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.sourcelink.json
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskMana.1B9E894A.Up2Date
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\refint\TaskManager.Buisness.dll
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.pdb
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.genruntimeconfig.cache
+C:\Users\VaishnaviRajuPhapagi\Desktop\API_ADO_S4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\ref\TaskManager.Buisness.dll
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.deps.json
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.runtimeconfig.json
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.dll
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.pdb
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Common.dll
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.DataAccess.dll
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Entities.dll
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Models.dll
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Common.pdb
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.DataAccess.pdb
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Entities.pdb
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Models.pdb
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.csproj.AssemblyReference.cache
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.AssemblyInfoInputs.cache
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.AssemblyInfo.cs
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.csproj.CoreCompileInputs.cache
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.sourcelink.json
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskMana.1B9E894A.Up2Date
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.dll
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\refint\TaskManager.Buisness.dll
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.pdb
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.genruntimeconfig.cache
+C:\Users\SayleeDalu\Desktop\sprint4\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\ref\TaskManager.Buisness.dll
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.deps.json
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.runtimeconfig.json
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.dll
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.pdb
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Common.dll
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.DataAccess.dll
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Entities.dll
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Models.dll
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Common.pdb
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.DataAccess.pdb
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Entities.pdb
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Models.pdb
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.csproj.AssemblyReference.cache
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.AssemblyInfoInputs.cache
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.AssemblyInfo.cs
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.csproj.CoreCompileInputs.cache
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.sourcelink.json
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskMana.1B9E894A.Up2Date
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.dll
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\refint\TaskManager.Buisness.dll
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.pdb
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.genruntimeconfig.cache
+D:\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\ref\TaskManager.Buisness.dll
+D:\TrialErrorAPI\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.deps.json
+D:\TrialErrorAPI\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.runtimeconfig.json
+D:\TrialErrorAPI\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.dll
+D:\TrialErrorAPI\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.pdb
+D:\TrialErrorAPI\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Common.dll
+D:\TrialErrorAPI\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.DataAccess.dll
+D:\TrialErrorAPI\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Entities.dll
+D:\TrialErrorAPI\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Models.dll
+D:\TrialErrorAPI\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Common.pdb
+D:\TrialErrorAPI\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.DataAccess.pdb
+D:\TrialErrorAPI\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Entities.pdb
+D:\TrialErrorAPI\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Models.pdb
+D:\TrialErrorAPI\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.csproj.AssemblyReference.cache
+D:\TrialErrorAPI\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrialErrorAPI\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.AssemblyInfoInputs.cache
+D:\TrialErrorAPI\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.AssemblyInfo.cs
+D:\TrialErrorAPI\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.csproj.CoreCompileInputs.cache
+D:\TrialErrorAPI\TaskManager.Buisness\obj\Debug\net8.0\TaskMana.1B9E894A.Up2Date
+D:\TrialErrorAPI\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.dll
+D:\TrialErrorAPI\TaskManager.Buisness\obj\Debug\net8.0\refint\TaskManager.Buisness.dll
+D:\TrialErrorAPI\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.pdb
+D:\TrialErrorAPI\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.genruntimeconfig.cache
+D:\TrialErrorAPI\TaskManager.Buisness\obj\Debug\net8.0\ref\TaskManager.Buisness.dll
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.deps.json
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.runtimeconfig.json
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.dll
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.pdb
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Common.dll
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.DataAccess.dll
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Entities.dll
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Models.dll
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Common.pdb
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.DataAccess.pdb
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Entities.pdb
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Models.pdb
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.csproj.AssemblyReference.cache
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.GeneratedMSBuildEditorConfig.editorconfig
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.AssemblyInfoInputs.cache
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.AssemblyInfo.cs
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.csproj.CoreCompileInputs.cache
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.sourcelink.json
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskMana.1B9E894A.Up2Date
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.dll
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\refint\TaskManager.Buisness.dll
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.pdb
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.genruntimeconfig.cache
+D:\All things in 2024 API\temp\FolderNew\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\ref\TaskManager.Buisness.dll
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.deps.json
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.runtimeconfig.json
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.dll
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.pdb
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Common.dll
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.DataAccess.dll
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Entities.dll
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Models.dll
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Common.pdb
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.DataAccess.pdb
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Entities.pdb
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Models.pdb
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.csproj.AssemblyReference.cache
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.AssemblyInfoInputs.cache
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.AssemblyInfo.cs
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.csproj.CoreCompileInputs.cache
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.sourcelink.json
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskMana.1B9E894A.Up2Date
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.dll
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\refint\TaskManager.Buisness.dll
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.pdb
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.genruntimeconfig.cache
+D:\Project\API\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\ref\TaskManager.Buisness.dll
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.deps.json
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.runtimeconfig.json
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.dll
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.pdb
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Common.dll
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.DataAccess.dll
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Entities.dll
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Models.dll
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Common.pdb
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.DataAccess.pdb
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Entities.pdb
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Models.pdb
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.csproj.AssemblyReference.cache
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.AssemblyInfoInputs.cache
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.AssemblyInfo.cs
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.csproj.CoreCompileInputs.cache
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskMana.1B9E894A.Up2Date
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.dll
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.Buisness\obj\Debug\net8.0\refint\TaskManager.Buisness.dll
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.pdb
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.genruntimeconfig.cache
+C:\Users\GaneshBalajiKirwaleP\Desktop\TaskM\TaskManager.Buisness\obj\Debug\net8.0\ref\TaskManager.Buisness.dll
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.deps.json
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.runtimeconfig.json
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.dll
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.pdb
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Common.dll
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.DataAccess.dll
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Entities.dll
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Models.dll
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Common.pdb
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.DataAccess.pdb
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Entities.pdb
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Models.pdb
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.csproj.AssemblyReference.cache
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.AssemblyInfoInputs.cache
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.AssemblyInfo.cs
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.csproj.CoreCompileInputs.cache
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.sourcelink.json
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskMana.1B9E894A.Up2Date
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.dll
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\refint\TaskManager.Buisness.dll
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.pdb
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.genruntimeconfig.cache
+D:\Project\6jan 2ndDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\ref\TaskManager.Buisness.dll
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.deps.json
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.runtimeconfig.json
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.dll
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.pdb
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Common.dll
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.DataAccess.dll
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Entities.dll
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Models.dll
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Common.pdb
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.DataAccess.pdb
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Entities.pdb
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Models.pdb
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.csproj.AssemblyReference.cache
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.AssemblyInfoInputs.cache
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.AssemblyInfo.cs
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.csproj.CoreCompileInputs.cache
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.sourcelink.json
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskMana.1B9E894A.Up2Date
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.dll
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\refint\TaskManager.Buisness.dll
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.pdb
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.genruntimeconfig.cache
+D:\Project\7Jan1stDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\ref\TaskManager.Buisness.dll
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.deps.json
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.runtimeconfig.json
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.dll
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Buisness.pdb
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Common.dll
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.DataAccess.dll
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Entities.dll
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Models.dll
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Common.pdb
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.DataAccess.pdb
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Entities.pdb
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\bin\Debug\net8.0\TaskManager.Models.pdb
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.csproj.AssemblyReference.cache
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.AssemblyInfoInputs.cache
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.AssemblyInfo.cs
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.csproj.CoreCompileInputs.cache
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.sourcelink.json
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskMana.1B9E894A.Up2Date
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.dll
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\refint\TaskManager.Buisness.dll
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.pdb
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\TaskManager.Buisness.genruntimeconfig.cache
+D:\Project\API09JanDev\SKO.XploreWings.Team-B-API\TaskM\TaskManager.Buisness\obj\Debug\net8.0\ref\TaskManager.Buisness.dll
