@@ -1,0 +1,219 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="verify_email"><font color="#5b39c6"><b><u><i>Verify email</i></u></b></font></string>
+    <string name="verifyemail"><b><u>Verify email</u></b></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <!--    activity_login.xml-->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="activity_login_email_hint">Email</string>
+    <string name="activity_login_password_hint">Password</string>
+    <string name="activity_login_forget_password_text">Forgot Password?</string>
+    <string name="activity_login_button_text">Login</string>
+    <string name="activity_login_dont_password_text">Don\'t have an account? </string>
+    <string name="activity_login_register_text">Register</string>
+
+    <!--    LoginActivity.kt-->
+    <string name="email_not_registered_toast">Email not registered, enter registered email</string>
+    <string name="enter_valid_email_toast">Please enter a valid email.</string>
+    <string name="network_request_failed_toast">Network request failed</string>
+    <string name="email_verified_successfully_toast">Email verified successfully</string>
+    <string name="failed_to_send_OTP_toast">Failed to send OTP</string>
+    <string name="network_error_toast">Network Error</string>
+    <string name="OTP_is_required_toast">OTP is required</string>
+    <string name="OTP_is_valid_responce">OTP is valid.</string>
+    <string name="invalid_OTP_toast">Invalid OTP</string>
+    <string name="Invalid_or_expired_OTP_default_messege">Invalid or expired OTP</string>
+    <string name="password_is_required_messege">Password is required</string>
+    <string name="password_should_be_at_least_8_characters_messege">Password should be at least 8 characters</string>
+    <string name="please_confirm_your_password_messege">Please confirm your password</string>
+    <string name="passwords_do_not_match_messege">Passwords do not match</string>
+    <string name="passwords_do_not_match_toast">Passwords do not match</string>
+    <string name="failed_to_reset_password_toast">Failed to reset password</string>
+    <string name="failed_to_resend_OTP_toast">Failed to resend OTP/string</string>
+    <string name="email_is_required_text">Email is required</string>
+    <string name="invalid_email_format_text">Invalid email format</string>
+    <string name="user_logged_in_successfully_toast">User logged in successfully!</string>
+    <string name="login_failed_default_error_messege">Login failed!</string>
+    <string name="an_error_occurred_toast">An error occurred!</string>
+    <string name="fetching_user_tasks_text">Fetching user tasks...</string>
+
+    <!--    HomeFragment.kt-->
+    <string name="shared_preference_variable_saveData">saveData</string>
+    <string name="token">token</string>
+    <string name="start_date_text">Start Date</string>
+    <string name="end_date_text">End Date</string>
+    <string name="success_responce_text">Success</string>
+    <string name="some_error_occurred_in_calling_the_API_toast">Some error occurred in calling the API</string>
+    <string name="no_tasks_found_text">No tasks found</string>
+    <string name="no_search_result_found">No result found. Please refine your search.</string>
+    <string name="please_enter_a_valid_start_date_toast">Please enter a valid start date.</string>
+    <string name="please_enter_a_valid_end_date_toast">Please enter a valid end date.</string>
+    <string name="no_tasks_selected_for_deletion_toast">No tasks selected for deletion.</string>
+    <string name="network_error_occured_toast">Network error occured</string>
+<!--    <string name="task_manager_text">Task Manager</string>-->
+
+<!--    fragment_home.xml-->
+    <string name="search_tasks_text">Search tasks</string>
+
+<!--    activity_register.xml-->
+    <string name="register_text">Register</string>
+    <string name="all_fields_are_mandatory_text">All fields are mandatory</string>
+    <string name="firstname_text">Firstname</string>
+    <string name="lastname_text">Lastname</string>
+    <string name="username_text">Username</string>
+    <string name="email_hint">Email</string>
+    <string name="verify_email_text">Verify Email</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_text">Confirm password</string>
+    <string name="Register_text">Register</string>
+
+<!--    RegisterActivity.kt-->
+    <string name="please_verify_your_email_toast">Please verify your email</string>
+    <string name="first_name_is_required_text">Please verify your email</string>
+    <string name="last_name_is_required_text">Last name is required</string>
+    <string name="username_is_required_text">Username is required</string>
+    <string name="Email_is_required_text">Email is required</string>
+    <string name="user_already_exists_toast">User already exists, redirecting to login...</string>
+    <string name="registration_failed_text">Registration failed</string>
+    <string name="password_should_be_alphanumeric_error">Password should be alphanumeric</string>
+
+<!--    TaskAdapter.kt-->
+    <string name="to_do_text">To Do</string>
+    <string name="completed_text">Completed</string>
+    <string name="on_hold_text">On Hold</string>
+    <string name="in_progress_text">In Progress</string>
+
+<!--    AddTAskFragment.kt-->
+    <string name="title_is_required_text">Title is required</string>
+    <string name="due_date_is_required_text">Due date is required</string>
+    <string name="description_is_required_text">Description is required</string>
+    <string name="task_created_successfully_toast">Task Created Successfully</string>
+    <string name="retry_failed_to_create_task_toast">Retry Failed to create task</string>
+    <string name="please_select_a_valid_date_toast">Please select a valid date</string>
+
+<!--    fragment_add_task.xml-->
+    <string name="add_task_text">Add Task</string>
+    <string name="add_text">Add</string>
+    <string name="enter_task_title_text">Enter task title</string>
+    <string name="select_due_date_hint">Select Due Date</string>
+    <string name="add_description_here_hint">Add description here</string>
+
+<!--    ViewTaskFragment.kt-->
+    <string name="some_error_occured">some error occured</string>
+    <string name="task_details_not_found_toast">Task details not found.</string>
+    <string name="failed_to_fetch_task_details_toast">Failed to fetch task details.</string>
+
+<!--    fragment_view_task.xml-->
+    <string name="title_text">Title</string>
+    <string name="title">View Task</string>
+    <string name="creation_date_text">Creation Date:</string>
+    <string name="End_date_text">End Date:</string>
+    <string name="status_text">Status :</string>
+    <string name="sample_date">23 Nov 2024</string>
+    <string name="textView_text">TextView</string>
+    <string name="description_text">Description...   </string>
+    <string name="edit_text">Edit</string>
+    <string name="delete_text">Delete</string>
+    <string name="failed_to_delete_task">Failed to delete task, retry after some time</string>
+
+<!--    EditTaskFragment.kt-->
+    <string name="Title_is_required_text">Title is required</string>
+    <string name="title_should_not_be_more_than_20_characters_text">Title should not be more than 20 characters</string>
+    <string name="retry_to_get_task_toast">Retry to get task</string>
+    <string name="status_is_required_text">Status is required</string>
+    <string name="task_updated_successfully_toast">Task updated successfully</string>
+    <string name="retry_to_update_task_toast">Retry to update task</string>
+
+<!--    fragment_edit_task.xml-->
+    <string name="task_title_text">Edit Task</string>
+    <string name="enter_task_title_hint">Enter task title</string>
+    <string name="select_status_hint">Select Status</string>
+    <string name="save_text">Save</string>
+
+<!--    ResetPassFrag.kt-->
+    <string name="password_changed_successfully_text">Password changed successfully!!!</string>
+
+<!--    frag_reset_pass.xml-->
+    <string name="reset_password_text">Reset Password</string>
+    <string name="create_a_strong_password_text">Create a strong password !</string>
+    <string name="create_a_new_password_text">Create a new password !</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+
+<!--    fragment_verify.xml-->
+    <string name="otp_sent_on_your_email_text">Otp sent on your email</string>
+    <string name="enter_OTP_here_hint">Enter OTP here</string>
+    <string name="resend_OTP_text">Resend OTP</string>
+
+<!--    dialog_verify_otp.xml-->
+    <string name="verify_text">Verify</string>
+    <string name="verify_otp_text">Verify OTP</string>
+    <string name="your_code_was_sent_to_you_via_email_text">* If you haven’t received your OTP, ensure your email address is correct and valid.</string>
+
+<!--    dialog_save_task.xml-->
+    <string name="are_you_sure_you_want_to_save_this_task_text">Are you sure you want to save this task?</string>
+
+<!--    dialog_reset_pass.xml-->
+    <string name="Reset_password_text">Reset Password</string>
+    <string name="new_password_hint">New Password</string>
+    <string name="conform_password_hint">Confirm Password</string>
+
+<!--    dialog_logout.xml-->
+    <string name="are_you_sure_you_want_to_log_out_text">Are you sure you want to log out?</string>
+
+<!--    dialog_delete.xml-->
+    <string name="are_you_sure_you_want_to_delete_task_text">Are you sure you want to delete task?</string>
+
+<!--    task_card_layout_2.xml-->
+    <string name="start_text">Start : </string>
+    <string name="end_text">End : </string>
+    <string name="status_card_text">Status</string>
+
+
+    <!--   Change password Profile Fragment-->
+    <string name="password_changed_successfully">Password changed successfully</string>
+    <string name="failed_to_change_password">Failed to change password</string>
+    <string name="old_password_is_required">Old password is required</string>
+    <string name="new_password_is_required">New password is required</string>
+    <string name="password_must_be_at_least_8_characters_long">Password must be at least 8 characters long</string>
+    <string name="passwords_do_not_match">Passwords do not match</string>
+    <string name="confirm_password_is_required">Confirm password is required</string>
+    <string name="password_must_be_alphanumeric">Password must be alphanumeric</string>
+    <string name="a_za_z0_9">^(?=.*\d)(?=.*[a-zA-Z])(?=\S*$).*$</string>
+    <string name="password">Password must be at least 8 characters long</string>
+    <string name="new_password_">New password is required</string>
+    <!--    Profile Fragment-->
+    <string name="fetching_user_details">fetching user details !....</string>
+    <string name="bitmap_is_null_after_decoding">Bitmap is null after decoding</string>
+    <string name="logged_out_successfully">Logged out successfully</string>
+    <string name="error_fetching_user_data">Error fetching user data</string>
+    <string name="select_image_source">Select Image Source</string>
+    <string name="profile_photo_deleted_successfully">Profile photo deleted successfully</string>
+    <string name="failed_to_delete_profile_photo">Failed to delete profile photo</string>
+    <string name="image_jpeg">image/jpeg</string>
+    <string name="photo_updated_successfully">Photo updated successfully</string>
+    <string name="image_size_limit_is_60Kb">image_size_limit_is_60Kb</string>
+    <!--    edit Profile Fragment-->
+    <string name="first_name_is_required">First name is required</string>
+    <string name="email_is_required">Email is required</string>
+    <string name="invalid_email_format">Invalid email format</string>
+    <string name="user_already_exists_give_a_different_email">User already exists, give a different email</string>
+    <string name="invalid_email_formate">Invalid Email Formate!</string>
+    <string name="network_request_failed">Network request failed</string>
+    <string name="resend_otp">Resend Otp</string>
+    <string name="otp_is_required">OTP is required</string>
+    <string name="last_name_is_too_long">last name is too long!</string>
+    <string name="last_name_is_required">Last name is required</string>
+    <string name="first_name_is_too_long">First name is too long!</string>
+    <string name="profile_updated_successfully">Profile updated successfully</string>
+    <string name="invalid_or_expired_otp">Invalid or expired OTP</string>
+    <string name="invalid_otp">Invalid OTP</string>
+    <string name="email_verified_successfully">Email verified successfully</string>
+    <string name="otp_is_valid">OTP is valid.</string>
+    <string name="failed_to_capture_image">Failed to capture image</string>
+    <string name="are_you_sure_want_to_delete_the_photo">are you sure want to delete the photo</string>
+    <string name="are_you_sure_want_to_edit_profile">are you sure want to edit profile</string>
+    <string name="are_you_sure_want_to_chnage_password">are you sure want to chnage password</string>
+
+
+</resources>

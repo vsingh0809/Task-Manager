@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EditProfilePhotoFragment">
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/editProfilePhotoImageView"
+        android:layout_width="262dp"
+        android:layout_height="198dp"
+        android:layout_marginTop="64dp"
+        android:src="@drawable/profile_page_default_image"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/topDividerEditProfilePhotoUpload" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/editProfilePhotoPageTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+        android:text="Profile"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <View
+        android:id="@+id/topDividerEditProfilePhotoUpload"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="40dp"
+        android:background="@android:color/darker_gray"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editProfilePhotoPageTitle" />
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/editProfilePhotoAddImageView"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="160dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.662"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/editProfilePhotoImageView"
+        app:srcCompat="@drawable/baseline_add_a_photo_24" />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

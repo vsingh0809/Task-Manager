@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:backgroundTint="#181819"
+    tools:context=".fragments.ViewTaskFragment">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="800dp">
+
+        <include
+            android:id="@+id/toolbar_include"
+            layout="@layout/toolbar" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/taskTitleTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="120dp"
+            android:layout_marginTop="80dp"
+            android:text="@string/title"
+            android:textSize="34sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/toolbar_include" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/textViewViewTaskTitle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="80dp"
+            android:layout_marginEnd="32dp"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="@string/title_text"
+            android:textSize="30sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/toolbar_include" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/creationDateViewTaskTag"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="32dp"
+            android:text="@string/creation_date_text"
+            android:textSize="20sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textViewViewTaskTitle" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/endDateViewTaskTag"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="32dp"
+            android:text="@string/End_date_text"
+            android:textSize="20sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/creationDateViewTaskTag" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/statusTaskTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="64dp"
+            android:text="@string/status_text"
+            android:textSize="20sp"
+            app:layout_constraintStart_toStartOf="@+id/textViewViewTaskTitle"
+            app:layout_constraintTop_toTopOf="@+id/endDateViewTaskTag" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/creationDateViewTaskDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:layout_marginEnd="32dp"
+            android:text="@string/sample_date"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textViewViewTaskTitle" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/statusTaskTextViewtoshow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/textView_text"
+            android:textSize="20sp"
+            app:layout_constraintStart_toStartOf="@+id/endDateViewTaskDate"
+            app:layout_constraintTop_toTopOf="@+id/statusTaskTextView" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/endDateViewTaskDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:layout_marginEnd="32dp"
+            android:text="@string/sample_date"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/creationDateViewTaskDate" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/teskDiscriptionTextView"
+            android:layout_width="338dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:background="@drawable/description_border"
+            android:clickable="true"
+            android:ellipsize="end"
+            android:focusable="true"
+            android:maxLines="4"
+            android:overScrollMode="always"
+            android:padding="16dp"
+            android:scrollbars="vertical"
+            android:text="@string/description_text"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/statusTaskTextView" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/editButtonTaskView"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginLeft="32dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginRight="32dp"
+            android:backgroundTint="#414BB2"
+            android:text="@string/edit_text"
+            android:textSize="20sp"
+            app:cornerRadius="5dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.25"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/teskDiscriptionTextView" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/deleteButtonTaskView"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_margin="30dp"
+            android:layout_marginLeft="32dp"
+            android:layout_marginRight="32dp"
+            android:backgroundTint="#414BB2"
+            android:text="@string/delete_text"
+            android:textSize="20sp"
+            app:cornerRadius="5dp"
+            app:layout_constraintTop_toBottomOf="@+id/editButtonTaskView" />
+
+        <ProgressBar
+            android:id="@+id/progressBarViewBinding"
+            style="?android:attr/progressBarStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/deleteButtonTaskView" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
